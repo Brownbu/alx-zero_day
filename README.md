@@ -1,2 +1,1 @@
-# alx-zero_day
-week3
+week3 day 2 assignment
